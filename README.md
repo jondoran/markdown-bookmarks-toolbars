@@ -6,6 +6,8 @@ This Firefox extension creates a secondary bookmarks toolbar with a drop-down se
 
 Edit the links via the add-on toolbar icon or by pressing the Edit button in the toolbar. All links are stored in Markdown.
 
+![Screenshot](screenshots/hero.png)
+
 ## Install
 
 (Currently awaiting Mozilla approval - link to addons.mozilla.org to be added)
