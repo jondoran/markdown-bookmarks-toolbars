@@ -24,16 +24,16 @@ Edit the links via the add-on toolbar icon or by pressing the Edit button in the
 
 1) Create or paste a markdown list into the editor to create three bookmark groups - the example below creates groups for personal, work and development bookmarks
 
-![[edit.png]]
+![Editor screen](screenshots/edit.png)
 
 2) Save changes
 3) Use the selector on the toolbar to switch between groups
 
-![[personal.png]]
+![Toolbar with Personal group selected](screenshots/personal.png)
 
-![[work.png]]
+![Toolbar with Work group selected](screenshots/work.png)
 
-![[dev.png]]
+![Toolbar with Dev group selected](screenshots/dev.png)
 
 ## Limitations
 
